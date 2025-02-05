@@ -2,6 +2,7 @@
 title: Projects
 position: 4
 ---
+
 ## Austin's smart city project inventory
 
 As part of our smart city initiative, we are compiling a list of local projects that align with our [definition of "smart city"](/projects/smart-city/about/definition/) for Austin. In sharing and updating this list, we hope to:

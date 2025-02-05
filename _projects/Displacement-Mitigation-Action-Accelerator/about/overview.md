@@ -1,5 +1,5 @@
 ---
-title: 1. Event Information 
+title: 1. Event Information
 position: 0
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 3. Possible Solutions Must Consider... 
+title: 3. Possible Solutions Must Consider...
 position: 2
 ---
 

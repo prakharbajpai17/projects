@@ -14,4 +14,3 @@ layout: redirect
 redirect_to: "/projects/bloomberg-iteam/about/overview"
 ---
 
-

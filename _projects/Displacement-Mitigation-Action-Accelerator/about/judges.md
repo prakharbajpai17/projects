@@ -1,5 +1,5 @@
 ---
-title: Judges 
+title: Judges
 position: 7
 ---
 

@@ -1,8 +1,7 @@
 ---
-title: 4. Successful Concepts Look Like... 
+title: 4. Successful Concepts Look Like...
 position: 3
 ---
-
 
 #### We want to be intentional and focused, so we request that you put forward concepts you or your organization have regarding one of the three focus areas mentioned above. To participate at the event, please: 
 
