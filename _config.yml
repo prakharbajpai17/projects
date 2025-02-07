@@ -1,5 +1,5 @@
 ---
-title: Design, Technology, and Innovation Projects - City of Austin
+title: City of Austin Open Research Portal
 timezone: UTC
 collections:
   posts:
@@ -21,14 +21,13 @@ defaults:
     nav_from_collection: projects
     image_path: "/assets/img/projects/project-tile-placeholder.jpg"
 email: innovationfellows@austintexas.gov
-description: 'Design, Technology, and Innovation Projects at the City of Austin
+description: 'Open Research Portal at the City of Austin
 
 '
 baseurl: 
-url: http://projects.austintexas.io
+url: http://openresearchportal.austintexas.io
 twitter:
-  username: civiqueso
-medium_url: https://medium.com/civiqueso
+  username: 
 zilker_theme: light
 markdown: kramdown
 gems:
